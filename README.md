@@ -13,8 +13,8 @@ This application implements a GPU-accelerated Retrieval-Augmented Generation (RA
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/jayrodge/llm-assistant-cloud-app.git
+   cd llm-assistant-cloud-app
    ```
 
 2. Create a virtual environment (using Python 3.9 as an example):
